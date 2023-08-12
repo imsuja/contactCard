@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contactCard/static/css/main.975583d3.css",
+    "main.js": "/contactCard/static/js/main.23d52b87.js",
+    "static/media/profile.png": "/contactCard/static/media/profile.bc44a7abccbb53675af4.png",
+    "index.html": "/contactCard/index.html",
+    "main.975583d3.css.map": "/contactCard/static/css/main.975583d3.css.map",
+    "main.23d52b87.js.map": "/contactCard/static/js/main.23d52b87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975583d3.css",
+    "static/js/main.23d52b87.js"
+  ]
+}
